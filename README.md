@@ -10,6 +10,10 @@ A Python 3 utility that parses PDF of amendments bundle coming from http://www2.
 
 ## Install
 
+```
+pip install amendments-bundle-parser
+```
+
 ## Usage
 
 Common use (output to a json file)
