@@ -8,6 +8,9 @@ A Python 3 utility that parses PDF of amendments bundle coming from http://www2.
 - `text`: text modification (the amendment)
 - `reason`: the reason of the amendment
 
+## Install
+
+## Usage
 
 Common use (output to a json file)
 
