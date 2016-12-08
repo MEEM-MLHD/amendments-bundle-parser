@@ -10,8 +10,10 @@ A Python 3 utility that parses PDF of amendments bundle coming from http://www2.
 
 ## Install
 
+(pip 9.0.1 works)
+
 ```
-pip install amendments-bundle-parser
+pip install amendments-bundle-parser --process-dependency-links
 ```
 
 ## Usage
